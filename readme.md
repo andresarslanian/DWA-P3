@@ -1,3 +1,14 @@
+## Welcome to my project 3
+
+# by Andres Arslanian
+
+You'll find the live version of my project here:
+http://p3-dwa15aa.rhcloud.com/
+
+I hope you enjoy it!
+
+
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
