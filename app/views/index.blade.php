@@ -32,12 +32,20 @@ Welcome
 		</ul>
 	</p>	
 	<p>
+		Lastly, you'll find the Project 2 but this time implemented in Laravel...
+		<ul>
+			<li>You could access it by clicking <a href='/password'>here!</a>. </li>
+			<li>Or access directly by going to '/password' </li>
+		</ul>
+	</p>	
+	<p>
 		Enjoy your stay!
 	</p>
 </div>
 <footer class="col-lg-12">
 	<a href='/lorem-ipsum'>Generate Text!</a> |
-	<a href='/user-generator'>Generate Users!</a>
+	<a href='/user-generator'>Generate Users!</a> |
+	<a href='/password'>Generate Password!</a>
 
 </footer>
 
